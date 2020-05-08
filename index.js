@@ -1,13 +1,13 @@
 var number = 10
 
 function add(value)
-  {number += (value)}
+  {number += value}
 
-function subtract(number)
-  {number -= (number)}
+function subtract(value)
+  {number -= value}
 
-function multiple(number)
-  {number *= (number)}
+function multiple(value)
+  {number *= value}
 
-function divide(number)
-  {number /= (number)}
+function divide(value)
+  {number /= value}
