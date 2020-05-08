@@ -31,4 +31,7 @@ function decrement(n)
   {return n - 1}
 
 function makeInt(n)
-  {return parseInt(n, 10)}
+  {return parseInt(n, 10)}  // only returns integers
+
+function preserveDecimal(n)
+  {return parseFloat(n)}
