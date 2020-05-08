@@ -1,7 +1,7 @@
 var number = 10
 
-function add(number)
-  {number += (number)}
+function add(value)
+  {number += (value)}
 
 function subtract(number)
   {number -= (number)}
