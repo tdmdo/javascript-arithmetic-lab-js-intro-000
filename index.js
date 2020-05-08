@@ -34,4 +34,4 @@ function makeInt(n)
   {return parseInt(n, 10)}  // only returns integers
 
 function preserveDecimal(n)
-  {return parseFloat(n)}
+  {return parseFloat(n)}    // preserves decimals
