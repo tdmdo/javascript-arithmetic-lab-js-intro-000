@@ -11,3 +11,6 @@ function multiple(value)
 
 function divide(value)
   {number /= value}
+
+function add(a, b)
+  {return ${a+b}}
